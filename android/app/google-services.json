@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329859664904",
+    "project_id": "emailpasswordauth-7770d",
+    "storage_bucket": "emailpasswordauth-7770d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329859664904:android:383d2bdd17eee7c1e6d5bd",
+        "android_client_info": {
+          "package_name": "com.example.tubes_fixs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329859664904-0k5ocvt95saap21k1qrbnc4o0nvit0mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi4mpciw660Q2VIF65fnHEZ13KHACCXw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329859664904-0k5ocvt95saap21k1qrbnc4o0nvit0mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
